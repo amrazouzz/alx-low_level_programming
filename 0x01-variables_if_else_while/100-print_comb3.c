@@ -8,15 +8,15 @@
 
 int main(void)
 {
-	int i,e;
+	int i, e;
 
-	i=48;
-	e=48;
+	i = 48;
+	e = 48;
 
 	while (e < 58)
 	{
-		i=48;
-		while (i <58)
+		i = 48;
+		while (i < 58)
 		{
 			if (e != i && e < i)
 			{
