@@ -1,8 +1,7 @@
 #include<stdio.h>
 #include "main.h"
 /**
- * main - Prints _puchar as a message
- *
+ * print_alphabet - Prints the alphabet in lowercase.
  * Return: Always 0 (success)
  */
 
