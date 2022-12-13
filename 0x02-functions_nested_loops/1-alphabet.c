@@ -8,7 +8,7 @@
 
 void print_alphabet(void)
 {
-	int str[] = {97, ..., 122 };
+	int str[] = {97, ... , 122 };
 	int i,s;
 
 	s = sizeof(str) / sizeof(int);
@@ -17,5 +17,4 @@ void print_alphabet(void)
 		_putchar(str[i]);
 	}
 	_putchar('\n');
-	return (0);
 }
