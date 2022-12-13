@@ -7,11 +7,11 @@
  * Return: - + or 0.
  */
 
-int _islower(int n)
+int print_sign(int n)
 {
 	if (n > 0)
 	{
-		_putcahr(43);
+		_putchar(43);
 		return (1);
 	}
 	else if (n = 0)
