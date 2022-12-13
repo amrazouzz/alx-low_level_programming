@@ -1,4 +1,5 @@
-#include<stdio.j>
+#include<stdio.H>
+#include<main.h>
 /**
  * main - the main function
  *
@@ -7,6 +8,14 @@
 
 void main()
 {
-	printf("_putchar\n");
+	int str[] = {95, 112, 117, 116, 99, 104, 97, 114};
+	int i, s;
+
+	s = sizeof(str) / sizeof(int);
+	for (i = 0; i < s; i++)
+	{
+		_putchar(str[i]);
+	}
+	_putchar("\n")
 	return (0);
 }
