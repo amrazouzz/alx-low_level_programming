@@ -3,7 +3,7 @@
 /**
  * main - Prints _puchar as a message
  *
- * Return - Always return 0
+ * Return: Always 0 (success)
  */
 
 int main(void)
