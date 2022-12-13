@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_sign - Shows + if the input is positive . if zero shows 0, else shows -
+ * print_sign - + if the input is positive . if zero 0, else shows -
  *
  * @n: Thr charachter in ascii
  *
