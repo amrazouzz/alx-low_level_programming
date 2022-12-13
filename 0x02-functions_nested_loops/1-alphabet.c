@@ -9,9 +9,8 @@
 void print_alphabet(void)
 {
 	int str;
-	int s = 28;
 
-	for (str = 97; str < s; str++)
+	for (str = 97; str <= 122; str++)
 	{
 		_putchar(str);
 	}
