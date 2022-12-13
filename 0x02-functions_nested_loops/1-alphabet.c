@@ -8,11 +8,10 @@
 
 void print_alphabet(void)
 {
-	int str[] = {97, ... , 122 };
-	int i,s;
+	int str;
+	int s = 28;
 
-	s = sizeof(str) / sizeof(int);
-	for (i = 0; i < s; i++)
+	for (str = 97; str < s; str++)
 	{
 		_putchar(str[i]);
 	}
