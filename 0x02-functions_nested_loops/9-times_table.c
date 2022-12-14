@@ -1,10 +1,9 @@
 #include "main.h"
 #include <stdio.h>
 /**
- * jack_bauer - Prints the minutes of a day
- *
+ * times_table - Prints the 9 times table
  * Return: no return
- */	
+ */
 void times_table(void)
 {
 	int a, b, op;
