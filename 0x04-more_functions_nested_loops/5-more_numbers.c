@@ -4,7 +4,7 @@
  * 10 times.
  * Return: always no retrun.
  */
-void print_numbers(void)
+void more_numbers(void)
 {
 	int i, n;
 
