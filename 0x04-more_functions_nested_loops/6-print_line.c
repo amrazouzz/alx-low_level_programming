@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_line - prints a straight line. 
+ * print_line - prints a straight line.
  *
  * Return: always no retrun.
  */
