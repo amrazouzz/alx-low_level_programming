@@ -1,8 +1,9 @@
 #include "main.h"
 /**
- * print_diagonal - prints diagonal line n times.
- * @n: times diagonal line is printed.
- * Return: always no retrun.
+ * print_square - prints hashes squares.
+ *
+ * @size: size of the square.
+ * Return: no return.
  */
 
 
