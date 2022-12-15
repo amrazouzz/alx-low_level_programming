@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * print_line - prints a straight line.
- * @n: times straight line is printed.
+ * print_diagonal - prints diagonal line n times.
+ * @n: times diagonal line is printed.
  * Return: always no retrun.
  */
 
@@ -17,7 +17,7 @@ void print_line(int n)
 			{
 				_putchar(' ');
 			}
-			_putchar(95);
+			_putchar(47);
 		}
 	}
 	_putchar('\n');
