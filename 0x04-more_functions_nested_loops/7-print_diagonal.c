@@ -7,7 +7,7 @@
 
 void print_line(int n)
 {
-	int i;
+	int i, j;
 
 	for (i = 0; i < n; i++)
 	{
