@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_line - prints a straight line.
- *
+ * @n: times straight line is printed.
  * Return: always no retrun.
  */
 void print_line(int n)
