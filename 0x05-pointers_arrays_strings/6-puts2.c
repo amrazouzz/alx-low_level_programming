@@ -4,6 +4,7 @@
  * @str: input string.
  * Return: no return.
  */
+void puts2(char *str)
 {
 	int count = 0;
 
